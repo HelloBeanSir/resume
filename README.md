@@ -10,17 +10,25 @@
 
 ## 基本情况
 
-* 98年、湖北·荆州人，做事务实踏实，喜欢有趣的东西
+* 98年的逗比青年、湖北·荆州人，做事务实踏实，喜欢有趣的东西
 * 喜欢折腾，没事的时候喜欢做点小东西，对于产品和设计也有些自己的想法，平时也有多看一些产品类的书籍
-* 善于学习，从刚接触时候连基本html都不会写，到现在能独自一人完成一个应用的前端工作
+* 善于学习，从刚接触时候连基本html都不会写，到现在能独自一人完成一个应用，会TypeScript和Rxjs
 * 爱好编程，理想是做一个懂产品、会设计、能做全栈的前端工程师，业余时间也涉猎Linux服务器和PHP相关CMS
-* 目前从事Angular的开发，会TypeScript和Rxjs
+* 目前自己跟朋友一起合伙办了一家公司，武汉优燃佳科技有限公司，给中小企业提供技术解决方案
 
 ## 从业经历
 
-* 现在公司（2016.11--至今）
+* 武汉优燃佳科技有限公司 (1017.09-至今)
 
-    该公司从事wifi大数据平台的前端开发，所用技术Angular+nodejs
+* 南京智搜智能科技有限公司（2016.11--2017.10）
+
+    * 中信国安广视大数据平台
+
+        我在此项目中负责整个项目的前端构建，使用Angular2+Echart3搭建了一个数据可视化展示后台，配合nodejs后台完成数据对接，实现前端的增删改查逻辑。刚加入这个项目时由于公司前几任前端都是做angularjs1，新的项目选择让我使用angular2开发，全新的项目全新的技术选型，所以一个人颇有压力，但在自己的努力之下短时间内将堆积在前端岗的工作任务一一完成匹配上公司其他开发人员的工作进度，完成了项目的开发，改善了代码的结构和语义化，以及缓存使得部分资源加载和传输更加的合理和快速响应，首页展现速度大大提高，也得到了公司领导和负责人的肯定，同时也能熟练typescript语言和angular2框架、echart数据可视化库以及rxjs数据流的编程思想。
+
+    * wushuu AI-CRM
+
+        我在此项目中负责整个项目的前端构建，使用Angular2+Echart3+lodash+moment搭建了一个数据可视化展示后台，配合nodejs后台完成数据对接，实现前端的增删改查逻辑。更进一步的熟练了angular2的开发方式和思想，跟深入的使用模块化，组件化的开发，更方便数据的展现和交互
 
 * 广东优运信息科技有限公司（2016.5--2016.10）
 
@@ -44,16 +52,41 @@
 
 ## 掌握技能
 
-* Web语言：HTML5 / CSS3 / Javascript / DOM / JSON / AJAX／Typescript
-* 框架及库：Bootstrap / Jquery / Highcharts / Echarts ／moment／lodash／angular2/rxjs
-* 前端工具：Webstorm / vscode／ Photoshop / LESS / SVN / Git / WampServer / nodejs / Bower / grunt
-* 服务端：centos／nginx／php／wordpress／Drupal
+* Web语言：HTML5/ CSS3/ Javascript/ JSON/ Typescript
+* 框架及库：Bootstrap/ Jquery/ Highcharts/ Echarts／ moment／lodash／ angular2/ rxjs
+* 前端工具：Less/ sass/ Git/ Bower/ gulp/ yarn/ npm
+* 服务端：centos／ nginx／ php／ wordpress／ Drupal/ nodejs/ python/ flask/ django
 
 ## 阅读书籍
 
-* 布局类：HTML5权威指南，CSS权威指南，响应式Web设计，简约至上
-* javascript类：jsDOM编程艺术，js高级程序设计，js权威指南，js数据结构与算法，js单页面spa，锋利的JQuery
-* 其他类：Java编程思想，Java核心技术卷一卷二，深入浅出Nodejs，HTTP权威指南，Github项目工程化，Web全栈工程师的自我修养
+* HTML5权威指南
+* CSS权威指南
+* 响应式Web设计
+* 简约至上
+* javascript DOM编程艺术
+* javascript 高级程序设计
+* javascript 权威指南
+* javascript 数据结构与算法
+* 你不知道的javascript上卷中卷
+* 锋利的JQuery
+* vue.js权威指南
+* 揭秘angular2
+* react全栈
+* 实战ES2015
+* moteor全栈开发
+* nodejs硬实战
+* python高效开发实战
+* docker实战
+* redis实战
+* 编程之美
+* 编程珠玑
+* Java编程思想
+* Java核心技术卷一卷二
+* 深入浅出Nodejs
+* HTTP权威指南
+* Github项目工程化
+* Web全栈工程师的自我修养
+* 深网
 
 ## 项目作品
 
