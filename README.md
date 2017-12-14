@@ -3,7 +3,8 @@
 ## 个人资料
 
 * 姓名：吴云峰
-* Phone/微信：13972318851
+* Phone：15623129808
+* 微信：13972318851
 * QQ：1363321437
 * Github：[https://github.com/wuyunfeng8](https://github.com/wuyunfeng8)
 * Blog：[yfblog.cn](https://yfblog.cn)
