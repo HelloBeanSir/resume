@@ -81,9 +81,8 @@
 ## 掌握技能
 
 * Web语言：HTML5/ CSS3/ Javascript/ JSON/ Typescript
-* 框架及库：Bootstrap/ Jquery/ Highcharts/ Echarts／ moment／lodash／ angular2/ rxjs
-* 前端工具：Less/ sass/ Git/ Bower/ gulp/ yarn/ npm
-* 服务端：centos／ nginx／ php／ wordpress／ Drupal/ nodejs/ python/ flask/ django
-
+* 框架及库：Bootstrap/ Echarts／ moment／lodash／ angular / rxjs / ng-zorro / Flutter / taro
+* 前端工具：sass/ Git/ npm
+* 服务端：centos／ nginx／ php／ wordpress／ nodejs/ adonis/ Elasticsearch
 
 
